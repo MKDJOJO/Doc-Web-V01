@@ -1,5 +1,5 @@
 # Adobe Pr 基础指南
-[首页]https://mkdjojo.github.io/Doc-Web-V01/)
+[首页](https://mkdjojo.github.io/Doc-Web-V01/)
 
 这套被催了很久的Pr 入门教程终于和大家见面了，这是一套从入门到进阶的案例式教学。
 **当然介绍会比较长哈，我建议“同学们”直接根据自己的需求搜索相应关键词！！**

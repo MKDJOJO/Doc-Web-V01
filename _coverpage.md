@@ -7,9 +7,9 @@
 * 了解并掌握  Adobe Pr 常用功能
 * 了解  Adobe Pr 的一些案例练习
 
-[快速 开始](#)
-[关于 PR](Page.1/Pr_N1_V01)
-[资料 下载](Download)r
+[快速 开始](Page.2/N2_V01)
+[关于 PR](Page.1/N1_V01)
+[资料 下载](Download)
 
 <!-- 背景色 -->
 ![](http://pic.yupoo.com/jojo01/cc5ba373/5cc1f96b.jpg)
